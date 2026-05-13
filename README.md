@@ -4,11 +4,13 @@
 - 🛡️ **Major:** Digital Infrastructure @ CMC Tangier
 - 💻 **Project:** Developing [Nmap-Pro-Analyzer](link-to-repo)
 - ⚙️ **Focus:** Ethical Hacking, Malware Analysis & Network Security
-- 🎸 **Hobby:** Guitar player & Music distribution
+- 🎸 **Hobby:** CTF's
 
 ### Reach out to me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)
+![Hacking GIF](https://media.giphy.com/media/your-gif-id/giphy.gif)
+
 <!--
 **NourdineElmassaoudi/NourdineElmassaoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
