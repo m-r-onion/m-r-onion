@@ -1,15 +1,16 @@
 # Hi there 👋, I'm m.r_onion
 ### Cybersecurity Student | Python Developer | Competitive Boxer
 
-- 🛡️ **Major:** Digital Infrastructure @ CMC Tangier
+- 🛡️ **Major:** Digital Infrastructure @ 
 - 💻 **Project:** Developing [Nmap-Pro-Analyzer](link-to-repo)
 - ⚙️ **Focus:** Ethical Hacking, Malware Analysis & Network Security
-- 🎸 **Hobby:** CTF's
+-  **Hobby:** CTF's
 
 ### Reach out to me:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)
-![Hacking GIF](https://media.giphy.com/media/your-gif-id/giphy.gif)
+[![tryackme](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://tryhackme.com/p/m.r.onion)
+![Hacking ](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRwbGR0eG5jZWlqMDFqdWZvMHo3b2YwbDF4cjQ4OHltOHUwbmR2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWpiVIOGXT5l9m/giphy.gif)
+
+![Hacking ](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDByd2RrM2t1d2lld3NzOHhlNDU0YmpmMzE0ZDIyaDQ2NnU1MHZ1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hIwx7v6vUUAUhHfl0c/giphy.gif)
 
 <!--
 **NourdineElmassaoudi/NourdineElmassaoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
