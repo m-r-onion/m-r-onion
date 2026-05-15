@@ -2,7 +2,7 @@
 ### Cybersecurity Student | Python Developer | Competitive Boxer
 
 - 🛡️ **Major:** Digital Infrastructure @ 
-- 💻 **Project:** Developing [Nmap-Pro-Analyzer](link-to-repo)
+- 💻 **Project:** Developing [Nmap-Pro-Analyzer]([https://github.com/m-r-onion/Nmap-Pro-Analyzer.git]))
 - ⚙️ **Focus:** Ethical Hacking, Malware Analysis & Network Security
 -  **Hobby:** CTF's
 
